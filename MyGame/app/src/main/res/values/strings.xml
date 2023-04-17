@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyGame</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Menu</string>
+    <string name="second_fragment_label">Reflex</string>
+    <string name="third_fragment_label">Simon</string>
+    <string name="fourth_fragment_label">Roulette</string>
+    <string name="next">REFLEX</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="c_est_ma_premi_re_appli_je_suis_content">Los Banditos</string>
+    <string name="d">%d</string>
+    <string name="simon">SIMON</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello third fragment</string>
+    <string name="r">R</string>
+    <string name="v">V</string>
+    <string name="j">J</string>
+    <string name="b">B</string>
+    <string name="green">Green</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="start">START</string>
+    <string name="_1">1</string>
+    <string name="roulette">ROULETTE</string>
+    <string name="spin">SPIN</string>
+</resources>
